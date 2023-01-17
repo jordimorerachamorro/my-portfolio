@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Jordi Morera Chamorro</h1>
-<h3 align="center">A passionate backend developer from Barcelona</h3>
+# Jordi Morera's repo
 
-- 🌱 I’m currently learning **docker, kubernetes, reactive programming, spring-boot**
+Este es un repo donde subo todo el código que voy realizando en mis cursos de formación de programación y proyectos personales. Voy a tratar de mantenerlo actualizado y con toda la documentación que pueda, para tener pequeñas muestras de las skills que voy aprendiendo, aunque no en todos los casos conlleva adjunta experiencia a nivel profesional.
 
-- 💬 Ask me about **java, adobe aem, junit**
 
-- 📫 How to reach me **jordimorera86@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jordimorerachamorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordimorerachamorro" height="30" width="40" /></a>
-</p>
+## Hello 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+My name is Jordi, Backend Software Engineer. Developing backend applications since 2007, based on the Java programming language. Passionate about new technologies, curious to learn something new every day and a great team player.
+
+* Currently working for [@cognizantnetcentric]([https://github.com/splitio](https://www.netcentric.biz/)) as an AEM Backend Engineer.
+
+## Skills
+
+* Using Java as a Programming Language since 2007
+* Using CMS Frameworks the last 10 years (Open CMS, Magnolia CMS, Opentext TeamSite, Adobe Experience Manager).
+* Magnolia CMS Associate Developer Certificate and Adobe AEM 6 Lead Developer Certificate
+* Learning AWS, Docker, Kubernetes and Azure Cloud.
+* Learning about Spring Framework technologies (Spring Boot, Security, Data...).
+* Passionate on micro-services development.
+* Some Python coding
+* High in soft-skills, great team-player and motivator.
+
+## Contact
+
+Find my professional info on my LinkedIn [here](https://www.linkedin.com/in/jordimorerachamorro/)
