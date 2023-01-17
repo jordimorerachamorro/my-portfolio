@@ -8,7 +8,7 @@ Este es un repo donde subo todo el código que voy realizando en mis cursos de f
 
 My name is Jordi, Backend Software Engineer. Developing backend applications since 2007, based on the Java programming language. Passionate about new technologies, curious to learn something new every day and a great team player.
 
-* Currently working for [@cognizantnetcentric]([https://github.com/splitio](https://www.netcentric.biz/)) as an AEM Backend Engineer.
+* Currently working for [@cognizantnetcentric](https://www.netcentric.biz/) as an AEM Backend Engineer.
 
 ## Skills
 
