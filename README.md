@@ -1,6 +1,6 @@
 # Jordi Morera's repo
 
-Este es un repo donde subo todo el código que voy realizando en mis cursos de formación de programación y proyectos personales. Voy a tratar de mantenerlo actualizado y con toda la documentación que pueda, para tener pequeñas muestras de las skills que voy aprendiendo, aunque no en todos los casos conlleva adjunta experiencia a nivel profesional.
+This is a repo where I upload all the code that I'm doing in my programming training courses and personal projects. I will try to keep it updated and with all the documentation I can, to have small samples of the skills that I am learning, although not in all cases it entails experience at a professional level.
 
 
 
