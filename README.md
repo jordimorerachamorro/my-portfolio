@@ -24,3 +24,8 @@ My name is Jordi, Backend Software Engineer. Developing backend applications sin
 ## Contact
 
 Find my professional info on my LinkedIn [here](https://www.linkedin.com/in/jordimorerachamorro/)
+
+
+## GitHub Pages
+[GitHub Pages: ](https://jordimorerachamorro.github.io/my-portfolio/)
+
