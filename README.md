@@ -27,5 +27,5 @@ Find my professional info on my LinkedIn [here](https://www.linkedin.com/in/jord
 
 
 ## GitHub Pages
-[GitHub Pages: ](https://jordimorerachamorro.github.io/my-portfolio/)
+[GitHub Pages](https://jordimorerachamorro.github.io/my-portfolio/)
 
