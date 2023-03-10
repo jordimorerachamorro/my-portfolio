@@ -1,6 +1,6 @@
-# Jordi Morera's repo
+# Jordi Morera's portfolio
 
-This is a repo where I upload all the code that I'm doing in my programming training courses and personal projects. I will try to keep it updated and with all the documentation I can, to have small samples of the skills that I am learning, although not in all cases it entails experience at a professional level.
+This is a portolio where I upload all the code that I'm doing in my programming training courses and personal projects. I will try to keep it updated and with all the documentation I can, to have small samples of the skills that I am learning, although not in all cases it entails experience at a professional level.
 
 
 
